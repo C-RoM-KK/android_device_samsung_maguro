@@ -1,7 +1,6 @@
 # Boot animation
-TARGET_SCREEN_HEIGHT := 1280
-TARGET_SCREEN_WIDTH := 720
-
+TARGET_SCREEN_HEIGHT := 800
+TARGET_SCREEN_WIDTH := 480
 
 # Inherit CRoM common stuff.
 $(call inherit-product, vendor/crom/config/common_phone.mk)
